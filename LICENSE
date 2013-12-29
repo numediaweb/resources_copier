@@ -1,6 +1,4 @@
 
-<!-- saved from url=(0060)https://raw.github.com/apache/cordova-android/master/LICENSE -->
-<html><script id="tinyhippos-injected">if (window.top.ripple) { window.top.ripple("bootstrap").inject(window, document); }</script><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css"></style></head><body gram_dict="true"><pre style="word-wrap: break-word; white-space: pre-wrap;">
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -201,4 +199,4 @@
    distributed under the License is distributed on an "AS IS" BASIS,
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
-   limitations under the License.</pre></body><div class="gr-context gr-dict gr-context-loader" style="display: none;"><span class="gr-triangle"></span><div class="gr-placeholder"></div><a href="http://www.grammarly.com/?utm_source=dict&utm_medium=link&utm_campaign=chrome_plg" target="_blank" class="gr-hint-settings"></a><strong class="gr-title"></strong><div class="gr-dict-content"></div></div></html>
+   limitations under the License.
