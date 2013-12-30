@@ -52,4 +52,7 @@ In order to take advantage of the splash screen in Android, add this two linees 
 
 Notes
 =====
-As of cordova 3.3 and Android splash screen support; cordova assums you put landscape screens in folders and naming them like; `drawable-land-xhdpi`
+
+Android
+-------
+As of cordova 3.3 and Android splash screen support; cordova assums you put landscape screens in folders where you append `land` to the name, like; `drawable-land-xhdpi`
