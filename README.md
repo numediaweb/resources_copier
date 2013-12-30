@@ -1,6 +1,3 @@
-Usage
-=====
-
 This assums you are using npm, node and cordova-cli.
 ```bash
 npm install cordova
@@ -39,8 +36,8 @@ Test
 ----
 Type in the CLI `cordova prepare android`. It copies files into the Android platforms. To debug add -d; `cordova prepare android -d`
 
-Sample usage
-------------
+Usage and platform notes
+------------------------
 ### Android splash screen
 
 In order to take advantage of the splash screen in Android, add this two linees to the `config.xml` in your `www` folder
@@ -49,10 +46,6 @@ In order to take advantage of the splash screen in Android, add this two linees 
 <preference name="SplashScreen" value="splash" />
 <preference name="SplashScreenDelay" value="3000" />
 ```
+#### Notes
 
-Notes
-=====
-
-Android
--------
 As of cordova 3.3 and Android splash screen support; cordova assums you put landscape screens in folders where you append `land` to the name, like; `drawable-land-xhdpi`
