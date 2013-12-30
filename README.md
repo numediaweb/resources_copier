@@ -26,6 +26,9 @@ config
     |   |-- drawable-hdpi
     |       |-- icon.png
     |       `-- splash.png
+    |   |-- drawable-land-hdpi
+    |       |-- icon.png
+    |       `-- splash.png
     |   |-- ...
 platforms
 www
@@ -46,3 +49,7 @@ In order to take advantage of the splash screen in Android, add this two linees 
 <preference name="SplashScreen" value="splash" />
 <preference name="SplashScreenDelay" value="3000" />
 ```
+
+Notes
+=====
+As of cordova 3.3 and Android splash screen support; cordova assums you put landscape screens in folders and naming them like; `drawable-land-xhdpi`
