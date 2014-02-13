@@ -6,7 +6,7 @@ npm install cordova
 Install
 -------
 
-Copy `resources_copier.js` into the `.cordova/hooks/after_prepare` directory.
+Copy `resources_copier.js` into the `.cordova/hooks/before_prepare` directory.
 
 Assets directory
 ----------------
