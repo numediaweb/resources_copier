@@ -36,6 +36,8 @@ Test
 ----
 Type in the CLI `cordova prepare android`. It copies files into the Android platforms. To debug add -d; `cordova prepare android -d`
 
+You may have to user `sudo chmod -R a+rwx ./.cordova/hooks/before_prepare/resources_copier.js` to update permissions to run the hook.
+
 Usage and platform notes
 ------------------------
 ### Android splash screen
